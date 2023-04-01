@@ -25,7 +25,7 @@ yarn install
 yarn hardhat compile
 ```
 
-4. Compile the contract with the following command:
+4. Deploy the contract with the following command:
 
 ```sh
 yarn hardhat deploy-zksync
